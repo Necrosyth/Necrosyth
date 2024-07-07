@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakher</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=necrosyth" alt="necrosyth" /></a> </p>
-
 - 🔭 I’m currently working on [a School site](https://cghs.vercel.app)
 
 - 🌱 I’m currently learning **Framer, NextJS, AWS services like DynamoDB and Cognito**
@@ -15,11 +13,11 @@
 
 - 📄 Know about my experiences [resume-prak.com](resume-prak.com)
 
-- ⚡ Fun fact **I like to listen to metal**
+- ⚡ Fun fact **I relax listeing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prakher-saxena-539122294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakher-saxena-539122294/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prakher-saxena-539122294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakher-saxena-539122294" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_necro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_necro_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prakher-saxena011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakher-saxena011" height="30" width="40" /></a>
 </p>
