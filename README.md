@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [a School site](https://cghs.vercel.app)<br><br>🌱 I’m currently learning Framer, NextJS, AWS services like DynamoDB and Cognito<br><br>👨‍💻 All of my projects are available at {In Progress}<br><br>📝 I regularly write articles on {In progress}<br><br>📫 How to reach me prakher.saxena011@gmail.com<br><br>📄 Know about my experiences resume-prak.com<br><br>⚡ Fun fact -I relax listening to death metal<br><br>
+🔭 I’m currently working on [a School site](https://cghs.vercel.app)<br><br>🌱 I’m currently learning Framer, NextJS, AWS services like DynamoDB and Cognito<br><br>👨‍💻 All of my projects are available at {In Progress}<br><br>📝 I regularly write articles on {In progress}<br><br>📫 How to reach me prakher.saxena011@gmail.com<br><br>📄 Know about my experiences {In Progress}<br><br>⚡ Fun fact -I relax listening to death metal<br><br>
 
 
 ## 🌐 Socials:
