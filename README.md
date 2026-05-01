@@ -5,8 +5,9 @@
 
 I'm a full-stack developer who enjoys building clean, functional web apps. Right now I'm working on [Crux](https://crux.in.net) and diving deeper into Next.js, React Native and AWS (DynamoDB, Cognito).
 
-When I'm not coding, I'm probably unwinding to death metal.
-
+When I'm not coding, I'm probably unwinding to death metal.<br><br>
+i use arch, btw.
+<br>
 - 📫 Reach me at [prakher.saxena011@gmail.com](mailto:prakher.saxena011@gmail.com)
 - 💼 Projects & writing -[here](https://www.plasticsoul.online/)
 
