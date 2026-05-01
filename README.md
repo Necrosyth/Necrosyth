@@ -8,6 +8,9 @@ I'm a full-stack developer who enjoys building clean, functional web apps. Right
 When I'm not coding, I'm probably unwinding to death metal.<br><br>
 i use arch, btw.
 <br>
+<br>
+ [Portfolio](https://necrosyth.tech)
+ <br>
 - 📫 Reach me at [prakher.saxena011@gmail.com](mailto:prakher.saxena011@gmail.com)
 - 💼 Projects & writing -[here](https://www.plasticsoul.online/)
 
